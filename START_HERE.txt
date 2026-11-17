@@ -1,0 +1,45 @@
+DHANUSHKKARAN S - PORTFOLIO WEBSITE
+Updated 17 November 2026
+
+GET STARTED
+Extract the entire ZIP. Open index.html in your browser.
+Keep the assets folder and all JS/CSS files beside index.html.
+No build or installation is required. The design assets and resume work offline.
+External profile/project links need an internet connection.
+
+NEW CONTENT AND RESUME DOWNLOAD
+The introduction, About, project summaries, skills, approach and contact copy
+have been rewritten using your three reference portfolios for content structure.
+All copy is original and uses your existing portfolio details.
+
+Download resume links are in the hero, mobile menu and footer.
+They download assets/Dhanushkkaran_S_Resume_Draft.pdf.
+This is a clearly labelled draft, not an approved final resume. Unknown contact
+details, full work history and school details have not been invented.
+
+TO ADD YOUR FINAL RESUME
+1. Put your approved PDF in assets/.
+2. Edit resume.file, resume.label and resume.note in profile.js.
+3. Also update the three data-resume-link href/download attributes in index.html
+   for visitors who have JavaScript disabled.
+
+PERSONAL DETAILS STILL NEEDED
+Email, phone and address; HSC/SSLC schools, passing years and optional marks;
+ThoughtMakes AI dates and responsibilities; any other employment entries.
+Add these in profile.js. Footer email/phone links appear once values are filled.
+
+FILES
+index.html - page content and sections
+profile.js - contact, education, experience and resume settings
+projects.js - project content and Behance links
+styles.css - design and responsive layouts
+app.js - interactions
+assets/ - images, local font and resume PDF
+
+INTERACTIONS
+Project filters and search, project previews, saved projects, light/dark mode,
+expandable experience, About tabs, animated reel with pause, skill shortcuts,
+and quick navigation (Ctrl+K / Command+K).
+
+The hosted preview remains private. The extracted website can be uploaded to
+any static hosting service when you are ready to share it.
